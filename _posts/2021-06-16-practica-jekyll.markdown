@@ -16,7 +16,7 @@ Para poder hacer esta practica podemos usar cualquier maquina de ubuntu, simplem
 
 Tambien necesitaremos crear un repositorio en nuestro github que llamaremos "usuario de github".github.io
 
-![alt text](https://github.com/antoniomanu/antoniomanu.github.io/blob/main/capturas/ce5773808c91c4bca1c4a95ca18031eb.png "Captura 1")
+![alt text](https://github.com/antoniomanu/antoniomanu.github.io/blob/main/capturas/ce5773808c91c4bca1c4a95ca18031eb.png?raw=true)
 
 Una vez creado el repositorio lo clonamos en la maquina que hemos creado
 
@@ -46,7 +46,7 @@ Para poder acceder a nuestro sitio ahora simplemente tendremos que usar el naveg
 
 Deberia de aparecer algo como esto:
 
-![imagen](https://github.com/antoniomanu/antoniomanu.github.io/blob/main/capturas/jekyll.png "Captura 2")
+![imagen](https://github.com/antoniomanu/antoniomanu.github.io/blob/main/capturas/jekyll.png?raw=true)
 
 En el archivo creado por defecto te explica como se deben de crear nuevos posts en Jekyll.
 
