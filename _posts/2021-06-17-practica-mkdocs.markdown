@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Practica MkDocs"
+date:   2021-06-17 02:37:35 -0500
+categories: IAW
+---
 # Creación de un sitio web estático con MkDocs
 
 ## Introduccion
